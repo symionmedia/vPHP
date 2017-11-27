@@ -6,7 +6,6 @@ The framework consists of multiple classes. Down below you'l find a basic descri
 
 ******************
 ### AUTHENTICATE CLASS
-==================
 
 This is a simple PHP Class for user authentication. 
 Currently supporting: 
