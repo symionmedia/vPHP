@@ -13,12 +13,12 @@ Currently supporting:
 - API Key + Token
 - Bearer Token
 
-Example users array:
+Example users array: (These are the used keys of the class. You may add otherones if you like)
 
 ```
 [
   {
-  "NAME" => "john",
+  "NAME" => "john Doe",
   "PASSWORD" => "jonnydoe",
   "KEY" => "rPbkvUYv66FHhE59gnzZ",
   "TOKEN" => "k4HYpFBtSf14xqfJ3QEwxZ2TJ1rFjKfO",
