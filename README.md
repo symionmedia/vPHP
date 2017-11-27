@@ -33,3 +33,14 @@ Example users array:
   }
 ]
 ```
+
+All the functions return an array with the following keys:
+
+```
+array(
+  "status" => true/false,
+  "message => "String with error or succes message",
+  # if the user is authenitcated
+  "user" => "string with username"
+)
+```
