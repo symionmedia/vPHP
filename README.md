@@ -9,7 +9,8 @@ Currently supporting:
 
 Example users array:
 
-'[
+```
+[
   {
   "NAME" => "john",
   "PASSWORD" => "jonnydoe",
@@ -24,4 +25,5 @@ Example users array:
   "TOKEN" => "",
   "BEARER" => ""
   }
-]'
+]
+```
